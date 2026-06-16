@@ -1,5 +1,13 @@
-#  Desafio de Projeto  sobre Git/GitHub da Dio
-Repositório criado para  o Desafio de Projeto
-
-## Links úteis
-[Sintaxe  Basica  Markdown](https://www.markdownguide.org/basic-syntax/)
+┌─────────────────────────────────────────────────────────┐
+│                   Dashboard Administrativo                │
+│              (React / HTML / Tailwind CSS)                │
+├─────────────────────────────────────────────────────────┤
+│                    Back-End (Node.js / Express)          │
+│              API REST, autenticação, integrações           │
+├─────────────────────────────────────────────────────────┤
+│              Agentes de IA (Multi-Agente)                │
+│        Botpress / Typebot + Webhooks (Make/Zapier)       │
+├─────────────────────────────────────────────────────────┤
+│                       CRMs Externos                       │
+│       HubSpot, Pipedrive, Salesforce, RD Station etc.      │
+└─────────────────────────────────────────────────────────┘
